@@ -1,7 +1,7 @@
 {
-    "Simple Kurdish Dummy Paragraph":{
+    "Simple Kurdish Dummy m Words":{
         "prefix":"kdt",
         "body": ["sasa sasads  dsadsadsa dasdsads  dasdsad"],
-        "description": "Generate some Dummy Text"
-    }
+        "description": "Generate n Words"
+    },
 }
