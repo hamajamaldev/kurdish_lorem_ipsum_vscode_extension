@@ -1,0 +1,30 @@
+{
+  "name": "kurdish-dummy-text",
+  "displayName": "Kurdish Dummy Text",
+  "description": "used to generate a kurdish dummy text",
+  "version": "1.0.0",
+  "publisher": "Glean Group",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamajamaldev/kurdish_lorem_ipsum_vscode_extension"
+  },
+  "icon": "icon.webp",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
