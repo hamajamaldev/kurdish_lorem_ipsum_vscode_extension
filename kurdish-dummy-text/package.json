@@ -3,12 +3,12 @@
   "displayName": "Kurdish Dummy Text",
   "description": "used to generate a kurdish dummy text",
   "version": "1.0.0",
-  "publisher": "Glean Group",
+  "publisher": "GleanGroup",
   "repository": {
     "type": "git",
     "url": "https://github.com/hamajamaldev/kurdish_lorem_ipsum_vscode_extension"
   },
-  "icon": "icon.JPG",
+  "icon": "icon.jpg",
   "engines": {
     "vscode": "^1.70.0"
   },
