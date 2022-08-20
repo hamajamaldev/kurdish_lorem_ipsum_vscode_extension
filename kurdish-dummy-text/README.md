@@ -17,6 +17,7 @@ Kurdish Dummy Text usedto generate a kurish dummy text and it is a placeholder t
 Initial release of KDT
 
 ---
+![image](https://github.com/hamajamaldev/kurdish_lorem_ipsum_vscode_extension/blob/main/kurdish-dummy-text/KDT.gif?raw=true)
 
 ## Working with Markdown
 
