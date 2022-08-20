@@ -1,7 +1,119 @@
 {
-    "Simple Kurdish Dummy m Words":{
-        "prefix":"kdt",
-        "body": ["sasa sasads  dsadsadsa dasdsads  dasdsad"],
-        "description": "Generate n Words"
+    "Simple Kurdish Dummy 1 Words": {
+        "prefix": "kdt1",
+        "body": [
+            "chaky "
+        ],
+        "description": "Generate 1 Words"
+    },
+    "Simple Kurdish Dummy 2 Words": {
+        "prefix": "kdt2",
+        "body": [
+            "chon shir "
+        ],
+        "description": "Generate 2 Words"
+    },
+    "Simple Kurdish Dummy 3 Words": {
+        "prefix": "kdt3",
+        "body": [
+            "shir chaky chon "
+        ],
+        "description": "Generate 3 Words"
+    },
+    "Simple Kurdish Dummy 4 Words": {
+        "prefix": "kdt4",
+        "body": [
+            "chaky naxir shir kaka "
+        ],
+        "description": "Generate 4 Words"
+    },
+    "Simple Kurdish Dummy 1 Paragraph": {
+        "prefix": "kdp1",
+        "body": [
+            "chaky naxir bashy shir shir chaky naxir naxir chaky ",
+            "naxir naxir bali nagbat slaw chon shir ",
+            "bali naxir naxir bashy naxir shir chon nagbat chon ",
+            "bashy basha kaka naxir naxir bashy nagbat bali chaky basha chaky chaky kaka ",
+            "chaky basha chaky slaw slaw slaw chaky chon chon chaky chaky slaw shir ",
+            "basha kaka kaka bashy chon basha kaka bashy nagbat chon ",
+            " ",
+        ],
+        "description": "Generate 1 Paragraph"
+    },
+    "Simple Kurdish Dummy 2 Paragraph": {
+        "prefix": "kdp2",
+        "body": [
+            "basha nagbat chon chaky naxir chaky naxir bashy basha naxir slaw ",
+            "chaky shir shir bashy bashy nagbat basha chon chon nagbat chaky ",
+            "shir chaky chon bashy shir shir naxir ",
+            "basha chaky kaka bashy chon shir bashy basha bali basha ",
+            "chaky slaw basha basha bali bali basha shir ",
+            "kaka shir bashy slaw kaka basha naxir naxir slaw kaka ",
+            " ",
+            "slaw naxir kaka chon kaka shir ",
+            "basha bali nagbat slaw shir chaky kaka shir kaka ",
+            "kaka basha shir basha slaw bali shir nagbat ",
+            " ",
+        ],
+        "description": "Generate 2 Paragraph"
+    },
+    "Simple Kurdish Dummy 3 Paragraph": {
+        "prefix": "kdp3",
+        "body": [
+            "bali shir bashy bali kaka bali basha bali kaka slaw naxir ",
+            "chaky bali shir slaw chaky bali bali bashy bali bashy chon ",
+            "nagbat chon bali shir chon bali slaw bashy bashy kaka shir ",
+            "bashy slaw nagbat bali naxir chon basha slaw basha slaw shir ",
+            "chon shir bashy bali slaw naxir basha kaka bali naxir ",
+            "chon chon basha basha kaka shir bali nagbat shir naxir basha nagbat kaka ",
+            "naxir chaky slaw basha chon chon chaky kaka naxir chon slaw basha shir chon chaky ",
+            " ",
+            "slaw chaky slaw bashy shir slaw nagbat naxir basha ",
+            "slaw shir bali chon nagbat naxir bashy nagbat bali ",
+            "shir nagbat chon chaky chon kaka bali slaw bali nagbat chon chaky basha ",
+            "chon kaka bali basha bali basha chon bali slaw slaw basha bashy ",
+            "chaky chon chon slaw naxir chon nagbat nagbat naxir chon bali shir ",
+            "kaka bashy nagbat slaw nagbat shir chaky chaky ",
+            " ",
+            "nagbat chaky kaka nagbat naxir naxir kaka nagbat chaky ",
+            "bashy shir naxir chaky shir chon shir bali ",
+            "bashy bashy kaka chon kaka shir naxir chaky shir bali shir naxir nagbat naxir slaw shir ",
+            "bashy bashy shir basha bashy naxir chon nagbat bali ",
+            "basha kaka chon chaky bashy slaw naxir naxir kaka basha bali ",
+            "basha slaw bali kaka chon bashy ",
+            "chaky basha slaw naxir nagbat nagbat kaka bali shir bali ",
+            " ",
+        ],
+        "description": "Generate 3 Paragraph"
+    },
+    "Simple Kurdish Dummy 4 Paragraph": {
+        "prefix": "kdp4",
+        "body": [
+            "shir bashy basha bali naxir chon kaka basha nagbat ",
+            "shir bali shir chon nagbat chon chaky chaky chon chaky naxir ",
+            "bashy nagbat naxir kaka chon bali basha bali basha kaka ",
+            "bali basha slaw bashy slaw slaw chaky slaw shir chon ",
+            "bali chaky chon bashy naxir basha nagbat ",
+            "kaka chon bashy basha chon bashy bali chon basha ",
+            "bali nagbat chaky shir bashy kaka shir kaka bashy ",
+            "basha kaka shir shir naxir chaky slaw kaka basha ",
+            " ",
+            "shir basha basha basha slaw naxir bashy bashy naxir nagbat ",
+            "naxir slaw basha slaw basha bali basha kaka basha chaky naxir chaky bashy slaw ",
+            "slaw nagbat kaka basha chon slaw shir slaw chaky naxir shir ",
+            "nagbat naxir slaw bashy slaw chon naxir ",
+            " ",
+            "chon kaka basha chon chon bashy kaka naxir slaw nagbat ",
+            "bali kaka slaw nagbat kaka chaky chaky shir naxir naxir ",
+            "slaw kaka nagbat chon basha nagbat naxir bashy bashy ",
+            "kaka basha basha shir chaky basha bashy shir ",
+            " ",
+            "bashy bashy nagbat kaka shir chon chon chaky shir ",
+            "shir basha slaw slaw slaw shir shir bali chon chon bashy ",
+            "basha shir nagbat nagbat chaky chaky chon chon bashy ",
+            "kaka bali chon bali shir kaka chon nagbat ",
+            " ",
+        ],
+        "description": "Generate 4 Paragraph"
     },
 }
