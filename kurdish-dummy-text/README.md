@@ -1,4 +1,4 @@
-# kurdish-dummy-text README
+# Kurdish Dummy Text
 
 Kurdish Dummy Text usedto generate a kurish dummy text and it is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
 
