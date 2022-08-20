@@ -4,12 +4,12 @@ Kurdish Dummy Text usedto generate a kurish dummy text and it is a placeholder t
 
 ## Features
 
--you can generete a text with (kdt1,kdt2,...,kdt200 ),
-    kdt1 generate 1 word ,
-    kdt200 generate 200 words
--you can generete a paragraph with (kdp1,kdp2,...,kdp100),
-    kdp1 generate 1 paragraph,
-    kdp100 generate 100 paragraphs
+* you can generete a text with (kdt1,kdt2,...,kdt200 ),
+    * kdt1 generate 1 word ,
+    * kdt200 generate 200 words
+* you can generete a paragraph with (kdp1,kdp2,...,kdp100),
+    * kdp1 generate 1 paragraph,
+    * kdp100 generate 100 paragraphs
 
 
 ### 1.0.0
