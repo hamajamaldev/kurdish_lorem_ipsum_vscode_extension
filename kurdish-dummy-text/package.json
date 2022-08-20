@@ -25,10 +25,7 @@
         "language": "javascript",
         "path": "./snippets/snippets.code-snippets"
       },
-      {
-        "language": "abap",
-        "path": "./snippets/snippets.code-snippets"
-      },
+
       {
         "language": "bat",
         "path": "./snippets/snippets.code-snippets"
@@ -89,10 +86,7 @@
         "language": "handlebars",
         "path": "./snippets/snippets.code-snippets"
       },
-      {
-        "language": "haml",
-        "path": "./snippets/snippets.code-snippets"
-      },
+
       {
         "language": "ini",
         "path": "./snippets/snippets.code-snippets"
@@ -182,7 +176,7 @@
         "path": "./snippets/snippets.code-snippets"
       },
       {
-        "language": "sass",
+        "language": "scss",
         "path": "./snippets/snippets.code-snippets"
       },
       {
